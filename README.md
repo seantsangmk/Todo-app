@@ -14,5 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Credit to Dev Ed (https://github.com/developedbyed/)
+Credit to Dev Ed (https://github.com/developedbyed/).\
 Build A Todo App With REACT | React Project For Beginners (FULL)
